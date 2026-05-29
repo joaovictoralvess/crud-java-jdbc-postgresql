@@ -1,2 +1,21 @@
-# crud-java-jdbc-postgresql
-CRUD de usuários desenvolvido em Java utilizando JDBC e PostgreSQL. Projeto para estudo de conexão com banco de dados, operações CRUD e SQL.
+# CRUD Java + PostgreSQL
+
+Projeto CRUD desenvolvido em Java utilizando JDBC e PostgreSQL.
+
+## Funcionalidades
+
+- Cadastrar usuário
+- Listar usuários
+- Atualizar usuário
+- Deletar usuário
+
+## Tecnologias
+
+- Java
+- JDBC
+- PostgreSQL
+- Maven
+
+## Objetivo
+
+Projeto criado para praticar operações CRUD e integração entre Java e banco de dados PostgreSQL.
